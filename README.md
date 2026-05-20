@@ -23,8 +23,8 @@ Hi there, I am fynessed. I am currently a University student studying Software E
 
 ### Projects
 
-[![](https://img.shields.io/badge/-🧾%20Sylla%20Receipts%20V2-0048bd)](https://discord.gg/syllareceipts)
 [![](https://img.shields.io/badge/-📎%20Sylla%20Receipts%20Website-0048bd)](https://syllareceipts.com)
+[![](https://img.shields.io/badge/-🧾%20Sylla%20Receipts%20Discord-0048bd)](https://discord.gg/syllareceipts)
 [![](https://img.shields.io/badge/-🎮%20Sylla%20Network-0048bd)](https://github.com/Sylla-Network)
 
 <!--
